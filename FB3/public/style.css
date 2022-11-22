@@ -1,0 +1,42 @@
+
+a{
+    text-decoration: none;
+}
+
+header{
+    background-color:rgb(11, 107, 216);
+    text-align: left;
+    height: 90px;
+}
+
+h1 {
+    padding: 30px;
+    color: #fafafa;
+}
+
+h2{
+    padding-top: 40px;
+}
+
+h4 {
+    margin-top: 30px;
+    color: rgb(41, 86, 212);
+}
+
+
+.message{
+    border-bottom: solid 2px gray;
+    margin-top: 30px;
+}
+
+.message > h5{
+    text-transform: capitalize;
+}
+
+
+
+div > label {
+    padding-top: 15px;
+    font-weight: 600;
+    font-size: 1.2em;
+}
